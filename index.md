@@ -2,8 +2,8 @@
 
 <h3>Seat</h3>
 
-<a href="https://www.seat.mx/compania/historia.html"></a>
-<p>SEAT, S.A. es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.</p>
+
+<p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.</p>
 
 You can use the [editor on GitHub](https://github.com/AngelAguilar6/SemanaTec2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
