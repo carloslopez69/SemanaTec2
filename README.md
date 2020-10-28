@@ -4,4 +4,5 @@
 
 Describiendo una empresa con un modelo de Iot exitoso
 
+Catalina Rodriguez Treviño
 
