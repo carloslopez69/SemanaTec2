@@ -1,4 +1,4 @@
-<h1>Una vista rápid a IoT</h1>
+<h1>Una vista rápida a IoT</h1>
 
 <h3>Seat</h3>
 
