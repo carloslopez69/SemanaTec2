@@ -27,7 +27,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <h4>Modelo de IoT</h4>
 
 <h3>Roomba</h3>
-  <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Corporation</strong> </p>
+  <p><strong><a href="https://www.irobot.mx/es-MX/roomba">Oracle</a> Corporation</strong> </p>
 <h4>Problemática</h4>
   <p></p>
 <h4>Modelo de IoT</h4>
