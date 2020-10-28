@@ -52,7 +52,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  <p> La problematica que resuelve es ayudar a prevenir enfermedades creando conciencia en las personas, o poder dar un analisis sin que la personaje tenga conocimiento sobre su salud. Por otro lado han visto que pueden inclusive dar visitas de control sinque que tenga que ir al doctor, solo con compartirle sus datos. <p>
  
 <h4>Modelo de IoT</h4>
-  <p> El modelo surge para poder ayudar a las personas a tener mas conciencia sobre su salud, desde ayudar a diagnosticar hasta recordatorios de tomar algun medicamento o tener un tipo de control. Con el Applewatch podras tener mas conciencia sobre tu salud y poder prevenir enfermedades <p>
+  <p> El modelo surge para poder ayudar a las personas a tener mas conciencia sobre su salud, desde ayudar a diagnosticar hasta recordatorios de tomar algun medicamento o tener un tipo de control. Con el Applewatch podras tener mas conocimiento sobre tu salud y poder prevenir enfermedades <p>
 
 <img src="s2.jpeg" width="450" height="300">
 
