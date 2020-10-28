@@ -54,7 +54,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <h4>Modelo de IoT</h4>
   <p> El modelo surge para poder ayudar a las personas a tener mas conciencia sobre su salud, desde ayudar a diagnosticar hasta recordatorios de tomar algun medicamento o tener un tipo de control. Con el Applewatch podras tener mas conciencia sobre tu salud y poder prevenir enfermedades <p>
 
-<img src="s2.jpeg" width="300" height="300">
+<img src="s2.jpeg" width="450" height="300">
 
 ### Markdown
 
