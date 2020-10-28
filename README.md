@@ -7,5 +7,6 @@ Describiendo una empresa con un modelo de Iot exitoso:
   <li>Angel Jesús Aguilar Argáez</li>
   <li>Catalina Rodriguez Treviño</li>
   <li>Hugo Ferrell Vega</li>
+  <li>Carlos Lopez</li>
 </ul>
 
