@@ -37,7 +37,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 </p>
   
 <h3>Johnnie Walker</h3>
-  <p><strong><a href="https://www.johnniewalker.com/es-mx/">SmartLabel</a> Johnnie Walker</strong> </p>
+  <p><strong><a href="https://www.johnniewalker.com/es-mx/">SmartLabel</a> Johnnie Walker</strong> es una compañía de whisky con sede en Kilmarnock, Escocia.  Es la marca de whisky escocés mezclado más ampliamente distribuida en el mundo, vendida en casi todos los países, con ventas anuales equivalentes a más de 223.7 millones de botellas de 700 ml en 2016 </p>
 <h4>Problemática</h4>
  
 <h4>Modelo de IoT</h4>
