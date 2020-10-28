@@ -2,7 +2,7 @@
 
 
 <h3>Oracle</h3>
-  <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Oracle</strong> Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
+  <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a></strong> Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
 Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
 
 <h4>Problemática</h4>
