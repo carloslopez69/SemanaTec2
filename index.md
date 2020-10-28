@@ -6,7 +6,7 @@
 Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
 
 <h4>Problemática</h4>
-  <p>Actualmente, existen muchas zonas laborales que se consideran de alto riesgo. Lugares como las minas de carbón, las centrales termoeléctricas o las centrales nucleares; presentan grandes riesgos para la gente que labora en ella. Ante esta necesidad Oracle, desarrolla Oracle Human Capital Management.</p>
+  <p>Actualmente, existen muchas zonas laborales que se consideran de alto riesgo. Lugares como las minas de carbón, las centrales termoeléctricas o las centrales nucleares presentan grandes riesgos para la gente que labora en ella. Ante esta necesidad, Oracle desarrolla Oracle Human Capital Management.</p>
 
 <h4>Modelo de IoT</h4>
   <p>A tráves de Oracle Internet of Things (IoT) Intelligent Applications Cloud, la compañía ofrece diversos tipos de aplicaciones con 5 principales enfoques:</p>
