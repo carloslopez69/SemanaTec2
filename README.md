@@ -1,6 +1,5 @@
-# SemanaTec2
 <div>
-  <h2>Un modelo probado de IoT</h2
+  <h1>Semana Tec: Un modelo probado de IoT</h1>
 </div>
 
 Describiendo una empresa con un modelo de Iot exitoso
