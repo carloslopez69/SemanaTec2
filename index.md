@@ -23,8 +23,11 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.<br> En 2018, SEAT vendió más de 517.000 vehículos. La sociedad exporta el 80 % de sus vehículos y está presente en más de 80 países a través de una red de 1700 concesionarios.</p>
 
 <h4>Problemática</h4>
-  <p></p>
+  <p>La problematica que quiere reslolver es el riesgo a los conductores que viajan por una carretera en dos casos uno es los ciclistas que puedan estar ciruclando cerca de ellos y la otra es algun coche detenido a mitad del camino o algun choque para avisar al conductor que tenga cuidado</p>
 <h4>Modelo de IoT</h4>
+  <p>e compone de un dron con cámara, que captura imágenes de lo que sucede en la carretera y la envía en tiempo real a través de una red movil conectada a un servidor que estará próximamente conectado con la plataforma DGT 3.0, y que procesa la imagen, detecta si hay una bicicleta o un vehículo parado en la carretera y envía una alarma al coche conectado de SEAT.
+
+El vehículo está conectado a la red gracias a una unidad telemática, Telematic Control Unit (TCU), mediante tecnología C-V2X (Cellular Vehicle to Everything) gracias a un software que posibilita la comunicación entre la red interna del vehículo y el entorno de éste (la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura, otros vehículos…).(Seat,2019).</p>
 
 <h3>Roomba</h3>
   <p><strong><a href="https://www.irobot.mx/irobot-home-app">IRobot</a> Roomba</strong> </p>
@@ -39,10 +42,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <h3>Johnnie Walker</h3>
   <p><strong><a href="https://www.johnniewalker.com/es-mx/">SmartLabel</a> Johnnie Walker</strong> es una compañía de whisky con sede en Kilmarnock, Escocia.  Es la marca de whisky escocés mezclado más ampliamente distribuida en el mundo, vendida en casi todos los países, con ventas anuales equivalentes a más de 223.7 millones de botellas de 700 ml en 2016. Su modelo de uso de IoT es una etiqueta que les avisa cuando tarda el usuario en abrir la botella de whisky para después enviarles un mensaje de como poder disfrutar mejor su producto. </p>
 <h4>Problemática</h4>
- <p> La problematica que resuelven al hacer estas etiquetas inteligentes es la falta de conocimiento del cliente sobre whisky, ya que no todos los clientes de Jhonnie Walker son expertos en el tema. De esta manera los clientes pueden disfrutar mejor el producto ademas que Jhonnie Walker incremente su satisfacción al cliente. <p>
  
 <h4>Modelo de IoT</h4>
-  <p> En marzo de 2015, Jhonnie Walker introdujo una etiqueta inteligente que se incluirá en su emblemático whisky Blue Label. La etiqueta inteligente puede ayudar a los consumidores a comprar el producto, pero la etiqueta inteligente tiene usos que van más allá del punto de venta. La etiqueta puede detectar si la botella está abierta o cerrada, y después de abrir puede enviar información al consumidor sobre la mejor manera de disfrutar el producto. <p>
+  
   
   <h3>Amazon</h3>
 
