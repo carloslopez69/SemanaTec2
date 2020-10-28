@@ -28,8 +28,6 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 
 <h3>Roomba</h3>
   <p><strong><a href="https://www.irobot.mx/irobot-home-app">IRobot</a> Roomba</strong> </p>
-<h4>Sector</h4>
-  <p> Se encuentra en el sector limpieza</p>
 <h4>Problemática</h4>
   <p>La problemática que resuelve es el tiempo que una persona tarda en limpiar toda su casa. La eficiencia en el orden de cualquier hogar, lo cual lleva la comodidad a un nuevo nivel. Da sugerencias automáticas basadas en sus necesidades y las de su familia, ademas crea una alerta de limpieza dependiendo de la temporada. Lleva a tu hogar muy limpio en todo momento sin que te desgastes. (iRobot, 2020) </p>
 <h4>Modelo de IoT</h4>
@@ -37,6 +35,12 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 
 Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intuitiva. Esta trace un mapa de su hogar con zonas de limpieza personalizadas para poder enviar a sus robots directamente a la suciedad. Estas crea recomendaciones personalizadas lo cual brindan la capacidad de aumentar y disminuir su limpieza y estar un paso por delante de la suciedad.
 </p>
+  
+<h3>Johnnie Walker</h3>
+  <p><strong><a href="https://www.johnniewalker.com/es-mx/">IRobot</a> Roomba</strong> </p>
+<h4>Problemática</h4>
+ 
+<h4>Modelo de IoT</h4>
   
   
   <h3>Amazon</h3>
