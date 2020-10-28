@@ -45,6 +45,14 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <p> En marzo de 2015, Jhonnie Walker introdujo una etiqueta inteligente que se incluirá en su emblemático whisky Blue Label. La etiqueta inteligente puede ayudar a los consumidores a comprar el producto, pero la etiqueta inteligente tiene usos que van más allá del punto de venta. La etiqueta puede detectar si la botella está abierta o cerrada, y después de abrir puede enviar información al consumidor sobre la mejor manera de disfrutar el producto. <p>
   
   <h3>Amazon</h3>
+  
+  <h3>Apple</h3>
+  <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">SmartLabel</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez y innovacion. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
+<h4>Problemática</h4>
+ <p>  <p>
+ 
+<h4>Modelo de IoT</h4>
+  <p>  <p>
 
 ### Markdown
 
