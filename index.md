@@ -11,11 +11,11 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <h4>Modelo de IoT</h4>
   <p>A tráves de Oracle Internet of Things (IoT) Intelligent Applications Cloud, la compañía ofrece diversos tipos de aplicaciones con 5 principales enfoques:</p>
   <ul>
-    <il>Manufactura inteligente</il>
-    <il>Mantenimiento predictivo</il>
-    <il>Logística conectada</il>
-    <il>Seguridad en el lugar de trabajo</il>
-    <il>Monitoreo de servicios</il>
+    <li>Manufactura inteligente</li>
+    <li>Mantenimiento predictivo</li>
+    <li>Logística conectada</li>
+    <li>Seguridad en el lugar de trabajo</li>
+    <li>Monitoreo de servicios</li>
   </ul>
 
 <h3>Seat</h3>
