@@ -47,12 +47,12 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <h3>Amazon</h3>
   
   <h3>Apple</h3>
-  <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">SmartLabel</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez y innovacion. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
+  <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">SmartLabel</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez e innovación. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
 <h4>Problemática</h4>
- <p>  <p>
+ <p> La problematica que resuelve es ayudar a prevenir enfermedades creando conciencia en las personas, o poder dar un analisis sin que la personaje tenga conocimiento sobre su salud. Por otro lado han visto que pueden inclusive dar visitas de control sinque que tenga que ir al doctor, solo con compartirle sus datos. <p>
  
 <h4>Modelo de IoT</h4>
-  <p>  <p>
+  <p> El modelo surge para poder ayudar a las personas a tener mas conciencia sobre su salud, desde ayudar a diagnosticar hasta recordatorios de tomar algun medicamento o tener un tipo de control. Con el Applewatch podras tener mas conciencia sobre tu salud y poder prevenir enfermedades <p>
 
 ### Markdown
 
