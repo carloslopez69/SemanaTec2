@@ -29,9 +29,12 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <h3>Roomba</h3>
   <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Corporation</strong> </p>
 <h4>Problemática</h4>
-  <p></p>
+  <p>La problemática que resuelve es el tiempo que una persona tarda en limpiar toda su casa. La eficiencia en el orden de cualquier hogar. Lleva la comodidad a un nuevo nivel. Da sugerencias automáticas basadas en sus necesidades y las de su familia. Crea una alerta de limpieza dependiendo de la temporada. Lleva a tu hogar muy limpio en todo momento sin que te desgastes. </p>
 <h4>Modelo de IoT</h4>
-  <p></p>
+  <p>IRobot consiste en robots de limpieza para la ayuda en el hogar, mapeando cada rincon de la casa y aprendan de ellos. Funcionan de forma completamente autónoma. Toda su base de datos estan dentro de una nube. Tarda un aproximado de 5 minutos en limpiar una habitación de tamaño medio, pasando varias veces por la misma área para garantizar la cobertura total del piso. Este incluye una serie de sensores (táctiles, ópticos y acústicos, dependiendo de cada serie y modelo) que le permite, entre otras cosas, detectar obstáculos, acumulaciones de residuos en el suelo y desniveles pronunciados tales como escaleras.
+
+Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intuitiva. Esra trace un mapa de su hogar con zonas de limpieza personalizadas para poder enviar a sus robots directamente a la suciedad. Estas recomendaciones personalizadas le brindan la capacidad de aumentar y disminuir su limpieza y estar un paso por delante de la suciedad.
+</p>
   
   
   <h3>Amazon</h3>
