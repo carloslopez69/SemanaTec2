@@ -10,7 +10,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <h4>Modelo de IoT</h4>
 
 <h3>Seat</h3>
-
+  
 <p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.<br> En 2018, SEAT vendió más de 517.000 vehículos. La sociedad exporta el 80 % de sus vehículos y está presente en más de 80 países a través de una red de 1700 concesionarios.</p>
 
 <h3>Amazon</h3>
