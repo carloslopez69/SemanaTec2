@@ -1,2 +1,3 @@
 # SemanaTec2
-Describiendo una empresa con un modelo de Iot exitoso
+Describiendo una empresa con un modelo de Iot exitoso. Trabajo realizado por:
+Angel Aguilar,
