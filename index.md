@@ -2,20 +2,25 @@
 
 
 <h3>Oracle</h3>
-  <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a></strong> Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
+  <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Corporation</strong> es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
 Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
 
 <h4>Problemática</h4>
   <p></p>
+
 <h4>Modelo de IoT</h4>
+  <p>A tráves de Oracle Internet of Things (IoT) Intelligent Applications Cloud, la compañía ofrece diversos tipos de aplicaciones con 5 principales enfoques:</p>
+  <ul>
+    <il>Manufactura inteligente</il>
+    <il>Mantenimiento predictivo</il>
+    <il>Logística conectada</il>
+    <il>Seguridad en el lugar de trabajo</il>
+    <il>Monitoreo de servicios</il>
+  </ul>
 
 <h3>Seat</h3>
 
 <p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.<br> En 2018, SEAT vendió más de 517.000 vehículos. La sociedad exporta el 80 % de sus vehículos y está presente en más de 80 países a través de una red de 1700 concesionarios.</p>
-
-<h3>Amazon</h3>
-  <p><strong><a href="https://https://www.amazon.com/">Amazon</a></strong> Amazon.com, Inc. es una empresa multinacional. Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
-Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
 
 <h4>Problemática</h4>
   <p></p>
