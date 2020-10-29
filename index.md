@@ -185,16 +185,16 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 Algunas de las practicas recomendadas son:
 
  
-Una vez que un “commit” se combine con una rama default se recomienda fuertemente que no se altere la historia de lo publicado. Se puede modificar, pero al hacerlo se vuelve problemático para los demás colaboradores. Claro que habrá momentos en los que se tenga que modificar algo a lo que ya se le dio “commit” pero se debe hacer con mucho cuidado. 
+1. Una vez que un “commit” se combine con una rama default se recomienda fuertemente que no se altere la historia de lo publicado. Se puede modificar, pero al hacerlo se vuelve problemático para los demás colaboradores. Claro que habrá momentos en los que se tenga que modificar algo a lo que ya se le dio “commit” pero se debe hacer con mucho cuidado. 
 
 
-Es mejor trabajar en pedazos pequeños y hacer “commit” frecuentemente en vez de terminar todo el proyecto y hacer un solo “commit”. Si estas trabajando en un bloque de código grande sirve mucho mantener este código actualizado para evitar cualquier conflicto de sincronización. 
+2. Es mejor trabajar en pedazos pequeños y hacer “commit” frecuentemente en vez de terminar todo el proyecto y hacer un solo “commit”. Si estas trabajando en un bloque de código grande sirve mucho mantener este código actualizado para evitar cualquier conflicto de sincronización. 
 
 
-Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.
+3. Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.
 
 
-A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande esto, es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
+4. A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande esto, es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
 </p>
  <p></p>
  <p></p>
