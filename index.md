@@ -7,19 +7,19 @@
     <td><a href="#Oracle">Oracle</a></td>
   </tr>
   <tr>
-    <td>Seat</td>
+    <td><a href="#Seat">Seat</a></td>
   </tr>
   <tr>
-    <td>Roomba</td>
+    <td><a href="#Roomba">Roomba</a></td>
   </tr>
   <tr>
-    <td>Johnnie Walker</td>
+    <td><a href="#Johnnie Walker">Johnnie Walker</a></td>
   </tr>
   <tr>
-    <td>Amazon</td>
+    <td><a href="#Amazon">Amazon</a></td>
   </tr>
   <tr>
-    <td>Apple</td>
+    <td>< a href="#Apple">Apple</a></td>
   </tr>
   <tr>
     <td>Guía rápida introductoria a GitHub</td>
@@ -49,6 +49,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 </p>
 </a>
 
+<a id="Seat">
 <h3>Seat</h3>
 
 <p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.<br> En 2018, SEAT vendió más de 517.000 vehículos. La sociedad exporta el 80 % de sus vehículos y está presente en más de 80 países a través de una red de 1700 concesionarios.</p>
@@ -60,6 +61,9 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 
 El vehículo está conectado a la red gracias a una unidad telemática, Telematic Control Unit (TCU), mediante tecnología C-V2X (Cellular Vehicle to Everything) gracias a un software que posibilita la comunicación entre la red interna del vehículo y el entorno de éste (la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura, otros vehículos…) (Seat,2019) </p>
 
+</a>
+
+<a id="Roomba">
 <h3>Roomba</h3>
   <p><strong><a href="https://www.irobot.mx/irobot-home-app">IRobot</a> Roomba</strong> </p>
 <h4>Problemática</h4>
@@ -69,7 +73,9 @@ El vehículo está conectado a la red gracias a una unidad telemática, Telemati
 
 Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intuitiva. Esta trace un mapa de su hogar con zonas de limpieza personalizadas para poder enviar a sus robots directamente a la suciedad. Estas crea recomendaciones personalizadas lo cual brindan la capacidad de aumentar y disminuir su limpieza y estar un paso por delante de la suciedad.
 </p>
-  
+</a>  
+ 
+<a id="Johnnie Walker"> 
 <h3>Johnnie Walker</h3>
   <p><strong><a href="https://www.johnniewalker.com/es-mx/">SmartLabel</a> Johnnie Walker</strong> es una compañía de whisky con sede en Kilmarnock, Escocia.  Es la marca de whisky escocés mezclado más ampliamente distribuida en el mundo, vendida en casi todos los países, con ventas anuales equivalentes a más de 223.7 millones de botellas de 700 ml en 2016. Su modelo de uso de IoT es una etiqueta que les avisa cuando tarda el usuario en abrir la botella de whisky para después enviarles un mensaje de como poder disfrutar mejor su producto. </p>
 <h4>Problemática</h4>
@@ -77,7 +83,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 <h4>Modelo de IoT</h4>
   <p> En marzo de 2015, Jhonnie Walker introdujo una etiqueta inteligente que se incluirá en su emblemático whisky Blue Label. La etiqueta inteligente puede ayudar a los consumidores a comprar el producto, pero la etiqueta inteligente tiene usos que van más allá del punto de venta. La etiqueta puede detectar si la botella está abierta o cerrada, y después de abrir puede enviar información al consumidor sobre la mejor manera de disfrutar el producto. <p>
+</a>
 
+<a id="Amazon">
 <h3>Amazon</h3> 
  <p><strong><a href="https://https://www.amazon.com">Amazon</a> </strong> es una empresa multinacional estadounidense ubicada en Seattle, Washington; se especializa en comercio electrónico, computación en la nube, transmisión digital e inteligencia artificial. 
  
@@ -86,7 +94,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <h4>Modelo de IoT</h4>
 <p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto. 
-       
+</a>
+ 
+ <a id="Apple">
 <h3>Apple</h3>
   
   <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">Manual del usuario de Apple Watch</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez e innovación. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
@@ -98,6 +108,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
  
 <img src="s2.jpeg" width="450" height="300">
+</a>
 
 <h3>Modelo IoT seleccionado</h3>
 <ol type='A'>
