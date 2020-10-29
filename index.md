@@ -79,7 +79,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <h3>Modelo IoT seleccionado</h3>
 <ol type='A'>
-  <li><strong>a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong>  </li>
+  <li><strong>a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
   <li><strong>¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto ya que les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
   <li> La propuesta de valor principal para el publico es poder crear un ambiente de seguridad al momento de manejar. Poder obtener un resguardo electronico que te pueda avisas en momentos de peligro. Lo mas importante en la vida es tu seguiridad y salud propia, que mejor que te avisen cuando estas en peligro. </li>
   <li></li>
