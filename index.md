@@ -160,6 +160,21 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ul>
   </ul>
   </ol>
+ <p><h2>Reporte integrador (Colaborativo)</h2></p>
+ <p></p>
+ <p></p>
+ <ul><strong>1. Retroalimentación proporcionada por el Profesor.</strong></ul>
+ <p></p>
+ <p></p>
+ <ul><strong>2. Tabla de contenido con hipervínculos a cada una de las secciones..</strong></ul>
+ <p></p>
+ <p></p>
+ <ul><strong>3. Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
+ <p></p>
+ <p></p>
+ <ul><strong>4. Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA de su pretotipo funcional de aplicación computacional.</strong></ul>
 
-<p> <strong>Refrencias:</strong>
-  https://juncotic.com/git-reset-y-git-reverse/</p>
+
+<p> <strong>5. Referencias consultadas en cada una de las secciones.</strong></p>
+  <p>https://juncotic.com/git-reset-y-git-reverse/</p>
+
