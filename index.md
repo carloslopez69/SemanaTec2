@@ -26,9 +26,12 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 
 <p><a href="https://www.seat.mx/compania/historia.html">SEAT, S.A.</a> es una empresa española de automóviles fundada por el extinto Instituto Nacional de Industria el 9 de mayo de 1950.<br> En 2018, SEAT vendió más de 517.000 vehículos. La sociedad exporta el 80 % de sus vehículos y está presente en más de 80 países a través de una red de 1700 concesionarios.</p>
 
-<h4>Problemática</h4>
+<h4>La problematica que toma es la de la pretección anticipada y aviso de riesgo a los conductores que viajan por una carretera en dos casos concretos que provocan con frecuencia situaciones de gran peligro como peatones mitad de camnino y choques automovilisticos.</h4>
   <p></p>
 <h4>Modelo de IoT</h4>
+<p>Es un dron con cámara que captura imágenes de lo que sucede en la carretera y la envía en tiempo real a través de una red movil a un servidor que estará conectado con la plataforma DGT 3.0, y que procesa la imagen, detecta si hay una bicicleta o un vehículo parado en la carretera y envía una alarma al coche conectado de SEAT.
+
+El vehículo está conectado a la red gracias a una unidad telemática, Telematic Control Unit (TCU), mediante tecnología C-V2X (Cellular Vehicle to Everything) gracias a un software que posibilita la comunicación entre la red interna del vehículo y el entorno de éste (la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura, otros vehículos…) (Seat,2019) </p>
 
 <h3>Roomba</h3>
   <p><strong><a href="https://www.irobot.mx/irobot-home-app">IRobot</a> Roomba</strong> </p>
@@ -74,19 +77,6 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 
 <img src="s2.jpeg" width="450" height="300">
-
-
-
-<h3>Modelo Seleccionado</h3>
-
-
-<h2>a)</h2>
-<h2>b)</h2>
- <p> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto ya que les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que le avisa a los coches que están por llegar de su existencia y situación. 
-<h2>c)</h2>
-<h2>d)</h2>
-<h2>e)</h2>
-<h2>f)</h2>
 
 
 ### Markdown
