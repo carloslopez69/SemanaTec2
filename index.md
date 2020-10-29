@@ -87,3 +87,13 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <li></li>
 </ol>
 
+  <h3>Redo Commits</h3>
+  <li><strong>Hay 4 tipos de redo commits</strong>
+  
+   <li>1. git reset [-q] [<tree-ish>] [--] <pathspec>…​</li>
+  
+   <li>2. git reset [-q] [--pathspec-from-file=<file> [--pathspec-file-nul]] [<tree-ish>]</li>
+  
+  <li>3. git reset (--patch | -p) [<tree-ish>] [--] [<pathspec>…​]</li>
+  <li>4. git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]</li>
+
