@@ -82,6 +82,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <h2>a)</h2>
 <h2>b)</h2>
+ <p> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto ya que les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que le avisa a los coches que están por llegar de su existencia y situación. 
 <h2>c)</h2>
 <h2>d)</h2>
 <h2>e)</h2>
