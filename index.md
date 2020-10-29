@@ -177,9 +177,25 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  <p></p>
  <p></p>
  <ul><strong>2. Tabla de contenido con hipervínculos a cada una de las secciones..</strong></ul>
- <p></p>
+ 
  <p></p>
  <ul><strong>3. Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
+ <p>GitHub se ha convertido en el sistema de control de versiones preferido de desarrolladores, esto se debe a que hace muy fácil y eficiente la colaboración remota entre todos los involucrados. Como es de esperarse se deben establecer convenciones para que la colaboración
+
+Algunas de las practicas recomendadas son:
+
+ 
+Una vez que un “commit” se combine con una rama default se recomienda fuertemente que no se altere la historia de lo publicado. Se puede modificar, pero al hacerlo se vuelve problemático para los demás colaboradores. Claro que habrá momentos en los que se tenga que modificar algo a lo que ya se le dio “commit” pero se debe hacer con mucho cuidado. 
+
+
+Es mejor trabajar en pedazos pequeños y hacer “commit” frecuentemente en vez de terminar todo el proyecto y hacer un solo “commit”. Si estas trabajando en un bloque de código grande sirve mucho mantener este código actualizado para evitar cualquier conflicto de sincronización. 
+
+
+Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.
+
+
+A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande esto, es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
+</p>
  <p></p>
  <p></p>
  <ul><strong>4. Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA de su pretotipo funcional de aplicación computacional.</strong></ul>
