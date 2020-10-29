@@ -89,25 +89,25 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
   <h3>Redo Commits</h3>
   
-  <ul>Hay 4 tipos de redo commits</ul>
+  <p>Hay 4 tipos de redo commits</p>
   <p></p>
   
   <ol type='1'>
   <li><strong>reset sobre el último commit</strong>
      <p> ~ git reset HEAD~1​ ~ </p>
-        <p> En este basicamente se busca regresar a cierto commit.</p>
+        <ul> En este basicamente se busca regresar a cierto commit.</ul>
   <p></p>
   <li><strong>reset –soft</strong>
     <p> ~ git reset --soft [<commit>] ~ </p>
-        <p> En este los cambios hechos durante los commits se van a quedar.</p>
+        <ul> En este los cambios hechos durante los commits se van a quedar.</ul>
    <p></p>
    <li><strong>reset –mixed</strong>
       <p> ~ git reset --mixed [<commit>] ~ </p>
-          <p> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</p>
+          <ul> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</ul>
   <p></p>
   <li><strong>git reset –hard</strong>
       <p> ~ git reset --hard [<commit>] ~ </p>
-          <p> En este busca poner en el estado que se encontraba en el commit reseteado.</p>
+          <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
   <p></p>
   </ul>
   </ol>
