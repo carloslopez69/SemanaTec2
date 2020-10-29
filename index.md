@@ -48,8 +48,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
   </ul>
   
   <h4>Oracle Human Capital Management</h4>
-  <p>	Consiste en una plataforma que integra las métricas de los diversos sensores de ambientes de trabajos peligrosos como minas, centrales termo eléctricas y nucleares. Y avisa en tiempo real las posiciones y áreas de los trabajadores, sus lecturas y la información del medio hacia el director del proyecto. De esta manera, se garantiza un mejor con control y seguridad en estos ambientes, al conocer el estado y posición de todos los trabajadores que entran y salen de un área considerada de peligro.
-</p>
+  <p>	Consiste en una plataforma que integra las métricas de los diversos sensores de ambientes de trabajos peligrosos como minas, centrales termo eléctricas y nucleares. Y avisa en tiempo real las posiciones y áreas de los trabajadores, sus lecturas y la información del medio hacia el director del proyecto. De esta manera, se garantiza un mejor con control y seguridad en estos ambientes, al conocer el estado y posición de todos los trabajadores que entran y salen de un área considerada de peligro.</p>
 </a>
 
 <a id="Seat">
@@ -63,7 +62,6 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
 <p>Es un dron con cámara que captura imágenes de lo que sucede en la carretera y la envía en tiempo real a través de una red movil a un servidor que estará conectado con la plataforma DGT 3.0, y que procesa la imagen, detecta si hay una bicicleta o un vehículo parado en la carretera y envía una alarma al coche conectado de SEAT.
 
 El vehículo está conectado a la red gracias a una unidad telemática, Telematic Control Unit (TCU), mediante tecnología C-V2X (Cellular Vehicle to Everything) gracias a un software que posibilita la comunicación entre la red interna del vehículo y el entorno de éste (la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura, otros vehículos…) (Seat,2019) </p>
-
 </a>
 
 <a id="Roomba">
