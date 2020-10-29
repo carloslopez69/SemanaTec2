@@ -4,7 +4,7 @@
 <table>
   <caption><h2>Tabla de contenidos</h2></caption>
   <tr>
-    <td><a href='Oracle'>Oracle</a></td>
+    <td><a href="Oracle">Oracle</a></td>
   </tr>
   <tr>
     <td>Seat</td>
@@ -85,14 +85,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <p> Amazon es una empresa muy grande con muchos proyectos de diversa índole que aplican la tecnología IoT, en este caso nos enfocaremos en los almacenes inteligentes. Según el periódico “Nytimes” esta empresa entrega 1.5 millones de paquetes al día en todo el mundo; para poder lograr esta hazaña se necesita de una logística y herramientas muy avanzadas.
 
 <h4>Modelo de IoT</h4>
-<p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto.
-
-    
-    
-    
-    
-    
-  <h3>Apple</h3>
+<p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto. 
+       
+<h3>Apple</h3>
   
   <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">Manual del usuario de Apple Watch</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez e innovación. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
 <h4>Problemática</h4>
@@ -160,21 +155,6 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ul>
   </ul>
   </ol>
- <p><h2>Reporte integrador (Colaborativo)</h2></p>
- <p></p>
- <p></p>
- <ul><strong>1. Retroalimentación proporcionada por el Profesor.</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>2. Tabla de contenido con hipervínculos a cada una de las secciones..</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>3. Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>4. Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA de su pretotipo funcional de aplicación computacional.</strong></ul>
 
-
-<p> <strong>5. Referencias consultadas en cada una de las secciones.</strong></p>
-  <p>https://juncotic.com/git-reset-y-git-reverse/</p>
-
+<p> <strong>Refrencias:</strong>
+  https://juncotic.com/git-reset-y-git-reverse/</p>
