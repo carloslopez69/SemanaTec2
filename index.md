@@ -89,7 +89,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
   <h3>Redo Commits</h3>
   
-  <ul><strong>Hay 4 tipos de redo commits</strong>
+  <ul>Hay 4 tipos de redo commits</ul>
   <p></p>
   <li><strong>1.-reset sobre el último commit</strong>
      <p> ~ git reset HEAD~1​ ~ </p>
@@ -109,5 +109,5 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <p></p>
   </ul>
 
-<li> <strong>Refrencias:</strong>
-  https://juncotic.com/git-reset-y-git-reverse/</li>
+<p> <strong>Refrencias:</strong>
+  https://juncotic.com/git-reset-y-git-reverse/</p>
