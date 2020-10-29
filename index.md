@@ -77,7 +77,13 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 <img src="s2.jpeg" width="450" height="300">
 
+<h3>Modelo IoT seleccionado</h3>
 <ol type='A'>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
   <li></li>
 </ol>
 
