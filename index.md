@@ -88,23 +88,26 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 </ol>
 
   <h3>Redo Commits</h3>
-  <li><strong>Hay 4 tipos de redo commits</strong>
   
-  <li><strong>reset sobre el último commit</strong>
-   <li>1. git reset HEAD~1​</li>
-        <li> En este basicamente se busca regresar a cierto commit.</li>
-  
-  <li><strong>reset –soft</strong>
-   <li>2. git reset --soft [<commit>]</li>
-        <li> En este los cambios hechos durante los commits se van a quedar.</li>
-   
-   <li><strong>reset –mixed</strong>
-  <li>3. git reset --mixed [<commit>]</li>
-          <li> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</li>
-  
-  <li><strong>git reset –hard</strong>
-  <li>4. git reset --hard [<commit>]</li>
-          <li> En este busca poner en el estado que se encontraba en el commit reseteado.</li>
-  
+  <ul><strong>Hay 4 tipos de redo commits</strong>
+  <p></p>
+  <li><strong>1.-reset sobre el último commit</strong>
+     <p> git reset HEAD~1​</p>
+        <p> En este basicamente se busca regresar a cierto commit.</p>
+  <p></p>
+  <li><strong>2.-reset –soft</strong>
+    <p> git reset --soft [<commit>]</p>
+        <p> En este los cambios hechos durante los commits se van a quedar.</p>
+   <p></p>
+   <li><strong>3.-reset –mixed</strong>
+      <p> git reset --mixed [<commit>]</p>
+          <p> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</p>
+  <p></p>
+  <li><strong>4.-git reset –hard</strong>
+      <p> git reset --hard [<commit>]</p>
+          <p> En este busca poner en el estado que se encontraba en el commit reseteado.</p>
+  <p></p>
+  </ul>
 
-<li> Refrencias:https://juncotic.com/git-reset-y-git-reverse/</li>
+<li> <strong>Refrencias:</strong>
+  https://juncotic.com/git-reset-y-git-reverse/</li>
