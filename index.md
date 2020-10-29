@@ -87,7 +87,31 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <li></li>
 </ol>
 
-  <h3>Redo Commits</h3>
+<p></p>
+<p></p>
+<p></p>
+<h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
+<p></p>
+     <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
+        <ul> Este fue utilizado para darle el tamaño a los encabezados, tambien dependiendo del numero que tu le pongas va a ser que tan grande sera el texto 1 viene siendo el mas grande y 6 el mas pequeño.</ul>
+        <p></p>
+   <p> ~ < li> Texto < /li> ~ </p>
+        <ul> Este fue utilizado para darle el tamaño a los encabezados.</ul>
+     <p></p>
+   <p> ~ < p>Texto< /p)> ~ </p>
+        <ul> Este fue utilizado para agregar parrafos.</ul>
+     <p></p>
+   <p> ~ < ol> Texto < /ol> ~ </p>
+        <ul> Este fue utilizado para ordenar listas.</ul>
+ <p></p>
+   <p> ~ < strong>Texto< /strong> ~ </p>
+        <ul> Es utilizado para poner en negritas las letras, para hacer enfasis en las partes de los textos.</ul>
+    <p></p>
+        
+  <p> ~ < ul> Texto< /ul> ~ </p>
+        <ul> Este fue utilizado para hacer una listo no ordenada, sin incisos pero con sangria.</ul>
+
+  <ul><h3>Redo Commits</h3>
   
   <p>Hay 4 tipos de redo commits</p>
   <p></p>
@@ -109,6 +133,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
       <p> ~ git reset --hard [<commit>] ~ </p>
           <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
   <p></p>
+  </ul>
   </ul>
   </ol>
 
