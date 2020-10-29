@@ -80,6 +80,8 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <h3>Modelo IoT seleccionado</h3>
 <ol type='A'>
   <li></li>
+
+  <li><strong>a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
   <li><strong>¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto ya que les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
   <li></li>
   <li><strong>¿Cuál es el proceso que involucra a estos públicos?</strong> Estos publicos conviven todo los dias a todo momento, el proceso completo ayuda a ambas partes ya que estamos ayudando a los conductores a que prevengan accidnetes y a los peatones que terminen lastimados, la recoleccion de imagenes, y el analisis de las mismas hacen que todos convivan en un ambiente donde se sigue un cicio mientras el conductor este manejando el dron va a ir recabando datos para evitar que gente salga lastimada</li>
@@ -87,3 +89,55 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <li></li>
 </ol>
 
+<p></p>
+<p></p>
+<p></p>
+<h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
+<p></p>
+     <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
+        <ul> Este fue utilizado para darle el tamaño a los encabezados, tambien dependiendo del numero que tu le pongas va a ser que tan grande sera el texto 1 viene siendo el mas grande y 6 el mas pequeño.</ul>
+        <p></p>
+   <p> ~ < li> Texto < /li> ~ </p>
+        <ul> Este fue utilizado para darle el tamaño a los encabezados.</ul>
+     <p></p>
+   <p> ~ < p>Texto< /p)> ~ </p>
+        <ul> Este fue utilizado para agregar parrafos.</ul>
+     <p></p>
+   <p> ~ < ol> Texto < /ol> ~ </p>
+        <ul> Este fue utilizado para ordenar listas.</ul>
+ <p></p>
+   <p> ~ < strong>Texto< /strong> ~ </p>
+        <ul> Es utilizado para poner en negritas las letras, para hacer enfasis en las partes de los textos.</ul>
+    <p></p>
+        
+  <p> ~ < ul> Texto< /ul> ~ </p>
+        <ul> Este fue utilizado para hacer una listo no ordenada, sin incisos pero con sangria.</ul>
+
+  <ul><h3>Redo Commits</h3>
+  
+  <p>Hay 4 tipos de redo commits</p>
+  <p></p>
+  
+  <ol type='1'>
+  <li><strong>reset sobre el último commit</strong>
+     <p> ~ git reset HEAD~1​ ~ </p>
+        <ul> En este basicamente se busca regresar a cierto commit.</ul>
+  <p></p>
+  <li><strong>reset –soft</strong>
+    <p> ~ git reset --soft [<commit>] ~ </p>
+        <ul> En este los cambios hechos durante los commits se van a quedar.</ul>
+   <p></p>
+   <li><strong>reset –mixed</strong>
+      <p> ~ git reset --mixed [<commit>] ~ </p>
+          <ul> En este los archivos puestos o eliminados que se enceuntran adentro de los commits no reseteados, no seran añadidos.</ul>
+  <p></p>
+  <li><strong>git reset –hard</strong>
+      <p> ~ git reset --hard [<commit>] ~ </p>
+          <ul> En este busca poner en el estado que se encontraba en el commit reseteado.</ul>
+  <p></p>
+  </ul>
+  </ul>
+  </ol>
+
+<p> <strong>Refrencias:</strong>
+  https://juncotic.com/git-reset-y-git-reverse/</p>
