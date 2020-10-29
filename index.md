@@ -194,7 +194,7 @@ Algunas de las practicas recomendadas son:
 3. Es importante hacer comentarios informativos y concisos a la hora de hacer cualquier “commit” en el trabajo. Esto es para que los colaboradores entiendan los cambios nuevos y para que en el futuro tu puedas entender que hiciste. En pocas palabras facilita el trabajo de todo hacer este tipo de comentarios.
 
 
-4. A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande esto, es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
+4. A la hora de desarrollar cualquier proyecto es probable que quieras hacer múltiples cambios o que surjan varios errores y los trates de arreglar todos a la vez. Se recomienda que te concentres en una sola tarea porque de no ser así generas un “commit” muy grande, esto es problemático porque los demás colaboradores empiezan a perderse en todos los cambios nuevos. 
 </p>
  <p></p>
  <p></p>
