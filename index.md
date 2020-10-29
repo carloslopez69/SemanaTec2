@@ -81,7 +81,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <ol type='A'>
   <li></li>
   <li><strong>¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto ya que les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
-  <li></li>
+  <li> La propuesta de valor principal para el publico es poder crear un ambiente de seguridad al momento de manejar. Poder obtener un resguardo electronico que te pueda avisas en momentos de peligro. Lo mas importante en la vida es tu seguiridad y salud propia, que mejor que te avisen cuando estas en peligro. </li>
   <li></li>
   <li><strong>¿Qué datos se generan y registran en el proceso?</strong> Se capturan imágenes de la carretera. Además, existe comunicación entre la red interna del vehículo y la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura y de otros vehículos. De esta forma, se informa el estado del tráfico en tiempo real, de los desvíos, carriles reversibles, aplicación de medidas en protocolos de contaminación, restricciones a la circulación, obras en ejecución y cualquier tipo de incidente que pueda afectar a la circulación. Asimismo, les podrá enviar alertas de la proximidad de ciclistas, la previsión de cortes o congestiones y el riesgo de niebla.</li>
   <li></li>
