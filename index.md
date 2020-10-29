@@ -75,6 +75,19 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <img src="s2.jpeg" width="450" height="300">
 
+
+
+<h3>Modelo Seleccionado</h3>
+
+
+<h2>a)</h2>
+<h2>b)</h2>
+<h2>c)</h2>
+<h2>d)</h2>
+<h2>e)</h2>
+<h2>f)</h2>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
