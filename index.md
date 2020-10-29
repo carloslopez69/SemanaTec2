@@ -79,17 +79,14 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 
 <h3>Modelo IoT seleccionado</h3>
 <ol type='A'>
-  <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
+  <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologías llevadas a cabo fueron basadas en las características y necesidades de las personas. Al ver cierta problemática en la gran cantidad de accidentes automovilísticos vieron la oportunidad de implementar una metodología que abarque una solución relacionada con la tecnologia y asi llego a ser. A través del énfasis en las características de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
   <li><strong> ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?</strong> En el año 2019 se reportaron 22,800 accidentes mortales y 120,000 accidentes con heridos graves en las carreteras europeas; este sistema de IoT busca a reducir esta problemática. Beneficia principalmente al conductor del auto, ya que, les avisa de irregularidades y situaciones peligrosas en la autopista. También beneficia al ciclista o carro parado ya que les avisa a los coches que están por llegar de su existencia y situación. </li>
-  <li><strong> ¿Cuál es la propuesta de valor para estos públicos</strong>?</li>
+  <li><strong> ¿Cuál es la propuesta de valor para estos públicos</strong>? La propuesta de valor principal es poder crear un ambiente de seguridad al momento de manejar. Poder obtener un resguardo electrónico que te pueda avisar en momentos de peligro. Partiendo de que lo más importante en la vida es tu seguiridad y salud propia, que mejor que tu auto también se convierta en un espacio seguro.</li>
   <li><strong> ¿Cuál es el proceso que involucra a estos públicos?</strong> Estos publicos conviven todo los dias a todo momento, el proceso completo ayuda a ambas partes ya que estamos ayudando a los conductores a que prevengan accidnetes y a los peatones que terminen lastimados, la recoleccion de imagenes, y el analisis de las mismas hacen que todos convivan en un ambiente donde se sigue un cicio mientras el conductor este manejando el dron va a ir recabando datos para evitar que gente salga lastimada.</li>
   <li><strong> ¿Qué datos se generan y registran en el proceso?</strong> Se capturan imágenes de la carretera. Además, existe comunicación entre la red interna del vehículo y la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura y de otros vehículos. De esta forma, se informa el estado del tráfico en tiempo real, de los desvíos, carriles reversibles, aplicación de medidas en protocolos de contaminación, restricciones a la circulación, obras en ejecución y cualquier tipo de incidente que pueda afectar a la circulación. Asimismo, les podrá enviar alertas de la proximidad de ciclistas, la previsión de cortes o congestiones y el riesgo de niebla.</li>
   <li></li>
 </ol>
 
-<p></p>
-<p></p>
-<p></p>
 <h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
 <p></p>
      <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
