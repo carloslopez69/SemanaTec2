@@ -1,6 +1,32 @@
 <h1>Una vista rápida a IoT</h1>
 
 
+<table>
+  <caption><h2>Tabla de contenidos</h2></caption>
+  <tr>
+    <td><a href='Oracle'>Oracle</a></td>
+  </tr>
+  <tr>
+    <td>Seat</td>
+  </tr>
+  <tr>
+    <td>Roomba</td>
+  </tr>
+  <tr>
+    <td>Johnnie Walker</td>
+  </tr>
+  <tr>
+    <td>Amazon</td>
+  </tr>
+  <tr>
+    <td>Apple</td>
+  </tr>
+  <tr>
+    <td>Guía rápida introductoria a GitHub</td>
+  </tr>
+</table>
+
+<div id="Oracle">
 <h3>Oracle</h3>
   <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Corporation</strong> es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
 Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
@@ -21,6 +47,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
   <h4>Oracle Human Capital Management</h4>
   <p>	Consiste en una plataforma que integra las métricas de los diversos sensores de ambientes de trabajos peligrosos como minas, centrales termo eléctricas y nucleares. Y avisa en tiempo real las posiciones y áreas de los trabajadores, sus lecturas y la información del medio hacia el director del proyecto. De esta manera, se garantiza un mejor con control y seguridad en estos ambientes, al conocer el estado y posición de todos los trabajadores que entran y salen de un área considerada de peligro.
 </p>
+</div>
 
 <h3>Seat</h3>
 
@@ -134,20 +161,5 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ul>
   </ol>
 
- <p><h2>Reporte integrador (Colaborativo)</h2></p>
- <p></p>
- <p></p>
- <ul><strong>1. Retroalimentación proporcionada por el Profesor.</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>2. Tabla de contenido con hipervínculos a cada una de las secciones..</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>3. Síntesis de buenas prácticas en la industria para el uso de git y commit [Sección 3: Guía rápida de GitHub].</strong></ul>
- <p></p>
- <p></p>
- <ul><strong>4. Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA de su pretotipo funcional de aplicación computacional.</strong></ul>
-
-
-<p> <strong>5. Referencias consultadas en cada una de las secciones.</strong></p>
-  <p>https://juncotic.com/git-reset-y-git-reverse/</p>
+<p> <strong>Refrencias:</strong>
+  https://juncotic.com/git-reset-y-git-reverse/</p>
