@@ -19,10 +19,13 @@
     <td><a href="#Amazon">Amazon</a></td>
   </tr>
   <tr>
-    <td>< a href="#Apple">Apple</a></td>
+    <td><a href="#Apple">Apple</a></td>
   </tr>
   <tr>
-    <td>Guía rápida introductoria a GitHub</td>
+    <td><a href="#Modelo IoT">Modelo IoT</a></td>
+  </tr>
+  <tr>
+    <td><a href="#Guia">Guía rápida introductoria a GitHub</a></td>
   </tr>
 </table>
 
@@ -96,7 +99,7 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
 <p> Los almacenes inteligentes utilizan varios sensores, robots y humanos para satisfacer la enorme cantidad de pedidos que se hacen anualmente; todos estos robots son controlados por un sistema en la nube que recibe información de múltiples sensores colocados alrededor del complejo. Ryan Clarke gerente de tecnología robótica aplicada en Amazon dice que es como resolver un sudoku, tienes que evitar congestionamiento ademas de satisfacer los pedidos y el sistema en la nube debe ser capaz de hacer todo esto. 
 </a>
  
- <a id="Apple">
+<a id="Apple">
 <h3>Apple</h3>
   
   <p><strong><a href="https://support.apple.com/es-mx/guide/watch/apd6b2bcdb19/watchos/">Manual del usuario de Apple Watch</a> Apple</strong> viene siendo una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Llega a ser una de las marcas mas conocidas del mundo por su sencillez e innovación. Ellos aplican IOT ya que con la información de pacientes anónimos recopilada de la base de datos de la nube, llegan a ayudar a diagnosticar el Parkinson, controlar el asma, la diabetes y, en general las enfermedades crónicas. </p>
@@ -105,11 +108,11 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
  
 <h4>Modelo de IoT</h4>
   <p> El modelo surge para poder ayudar a las personas a tener mas conciencia sobre su salud, desde ayudar a diagnosticar hasta recordatorios de tomar algun medicamento o tener un tipo de control. Con el Applewatch podras tener mas conocimiento sobre tu salud y poder prevenir enfermedades <p>
-
  
 <img src="s2.jpeg" width="450" height="300">
 </a>
 
+<a id="Modelo IoT">
 <h3>Modelo IoT seleccionado</h3>
 <ol type='A'>
   <li><strong> ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?</strong> Los criterios y metodologias llevadas a cabo fueron basadas en las caracteristicas y necesidades de las personas. Al ver cierta problematica en la gran cantidad de accidentes automovilisticos vieron la oportunidad de implementar una metodologia que abarque una solucion relacionado con la tecnologia y asi llego a ser. A traves del enfasis en las caracteristicas de la salud y seguridad del conductor buscaron la manera viable de implementarlo. </li>
@@ -119,7 +122,9 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   <li><strong> ¿Qué datos se generan y registran en el proceso?</strong> Se capturan imágenes de la carretera. Además, existe comunicación entre la red interna del vehículo y la plataforma DGT3.0 de la Dirección General de Tráfico, los sistemas de señalización e infraestructura y de otros vehículos. De esta forma, se informa el estado del tráfico en tiempo real, de los desvíos, carriles reversibles, aplicación de medidas en protocolos de contaminación, restricciones a la circulación, obras en ejecución y cualquier tipo de incidente que pueda afectar a la circulación. Asimismo, les podrá enviar alertas de la proximidad de ciclistas, la previsión de cortes o congestiones y el riesgo de niebla.</li>
   <li><strong>¿Qué estándares estan implicados en este modelo y cómo se usan?</strong> Uno de los estándares de IoT es el Data-Distributions Service (DDS). Esto se supone que es un protocolo para la comunicacion en tiempo real entre dispositivos, esto funciona con el dron que tiene una camara que obtiene la imagen, y luego la envia a un servidor donde se analiza y ve si hay algun problema en el camino, tambien el wifi, porque van a mandar una señal de un modo inalambrico por medio de una red movil o ya si nos ponemos mas tecnicos seria el C-V2X que es lo que se usa en los coches autonomos para comunicarse con su entorno.</li>
 </ol>
+</a>
 
+<a id="Guia">
 <h2>Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.</h2>
 <p></p>
      <p> ~ < H(numero)>Texto< /H(numero)> ~ </p>
@@ -166,6 +171,6 @@ Con la App iRobot Home, tienes una experiencia intuitiva para una limpieza intui
   </ul>
   </ul>
   </ol>
-
+</a>
 <p> <strong>Refrencias:</strong>
   https://juncotic.com/git-reset-y-git-reverse/</p>
