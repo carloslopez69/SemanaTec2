@@ -4,7 +4,7 @@
 <table>
   <caption><h2>Tabla de contenidos</h2></caption>
   <tr>
-    <td><a href="Oracle">Oracle</a></td>
+    <td><a href="#Oracle">Oracle</a></td>
   </tr>
   <tr>
     <td>Seat</td>
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<div id="Oracle">
+<a id="Oracle">
 <h3>Oracle</h3>
   <p><strong><a href="https://www.oracle.com/mx/index.html">Oracle</a> Corporation</strong> es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede en la localidad californiana de Redwood City, Estados Unidos.
 Oracle es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, <em>Software AG.7</em></p>
@@ -47,7 +47,7 @@ Oracle es la primera compañía de software de estereotipos que desarrolla e imp
   <h4>Oracle Human Capital Management</h4>
   <p>	Consiste en una plataforma que integra las métricas de los diversos sensores de ambientes de trabajos peligrosos como minas, centrales termo eléctricas y nucleares. Y avisa en tiempo real las posiciones y áreas de los trabajadores, sus lecturas y la información del medio hacia el director del proyecto. De esta manera, se garantiza un mejor con control y seguridad en estos ambientes, al conocer el estado y posición de todos los trabajadores que entran y salen de un área considerada de peligro.
 </p>
-</div>
+</a>
 
 <h3>Seat</h3>
 
