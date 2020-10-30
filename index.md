@@ -199,6 +199,7 @@ Algunas de las practicas recomendadas son:
  <p></p>
  <p></p>
  <ul><strong>4. Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA de su pretotipo funcional de aplicación computacional.</strong></ul>
+  <p>Como funcionaria nuestra app, como sabemos usamos drones que detectan si hay algun problema en el camino y si lo detecta manda un mensaje al conduxtor para que tenga cuidado, con esto en mente diseñamos esta app que va a estar conectada con los drones que cuando detecte que un usuario de la app se encuentra en una zona de peligro su celular se va emitir con la luz de la linerna un patron intermimenten que llame la atencion no solo a la persona de la app sino a la gente que se encuentre a su alrededor por si puede llegar a necesitar ayuda </p>
 
 
 <p> <strong>5. Referencias consultadas en cada una de las secciones.</strong></p>
